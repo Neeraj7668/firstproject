@@ -1,0 +1,36 @@
+*{
+margin:0px;
+padding:0px;
+}
+
+.brd{
+  border: 3px solid black;
+}
+.brd1{
+  border: 1px solid red;
+}
+p{
+  color: white;
+  font-size: 10pt;
+  padding-top: 16px;
+}
+a{
+  color: white;
+
+}
+arousel-caption{
+
+  padding-bottom: 0px;
+}
+.nav{
+  margin: auto;
+  padding: auto;
+}
+a:hover{
+  color:red;
+  text-decoration:none;
+}
+
+h4{
+  color:red;
+}
